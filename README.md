@@ -1,1 +1,1 @@
-# Number-Triangle
+# Number-Triangle-in-C++
